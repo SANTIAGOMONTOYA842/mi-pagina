@@ -12,4 +12,3 @@ Este evento deportivo se realiza cada cuatro años desde 1930, con la excepción
    
   </body>
 </html>
-  

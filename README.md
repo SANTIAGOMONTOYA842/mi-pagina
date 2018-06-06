@@ -1,7 +1,9 @@
 <html>
   <head>
-    <title>hola mundo</title>
+    <title>mi pagina web</title>
   </head>
   <body>
-    <h1>javier</h1>
-    <p>Microsoft is acquiring GitHub! Read our blog and Satya Nadella's post to learn more.</p
+    <p>esta es una pagina web creada por santiago montoya</p>
+  </body>
+</html>
+  

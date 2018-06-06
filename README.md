@@ -31,8 +31,5 @@ USA 94: Colombia 1-3 Rumania; USA 2-1 Colombia; Colombia 2-0 Suiza
 FRANCIA 98: Colombia 0-1 Rumania; Colombia 1-0 Túnez; Colombia 2-0 Inglaterra
 
 BRASIL 2014: Colombia 3-0 Grecia; Costa de Marfil 1-2 Colombia; Colombia 4-1 Japón. 8vos: Colombia 2-0 Uruguay. 4tos: Brasil 2-1 Colombia </p>
-
-
-   
   </body>
 </html>
